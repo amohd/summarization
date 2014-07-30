@@ -1,0 +1,1 @@
+perl long_text_to_sorted_words.pl cleanText.txt pairWord.txt pairSimValue.txt  out.txt

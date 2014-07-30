@@ -1,0 +1,1 @@
+perl create_pairWord_and_cleanText.pl in.txt StopWords33.txt pairWord.txt cleanText.txt
